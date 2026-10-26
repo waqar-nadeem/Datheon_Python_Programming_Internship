@@ -1,7 +1,5 @@
 # Datheon Python Programming Internship
 
-**Verified Internship Project Submission**
-
 This repository contains all completed tasks for the **Datheon Python Programming Internship**. Each task demonstrates practical Python skills including file I/O, data processing, automation, and interactive applications.
 
 ---
@@ -112,16 +110,6 @@ python chatbot.py
 - All other tasks use the Python standard library only
 
 ---
-
-## How to Submit
-
-1. Create a **public** GitHub repository named exactly:
-   ```
-   Datheon_Python_Programming_Internship
-   ```
-2. Push this project (source code + README) to the repository.
-3. Paste the public repository URL into the Datheon submission form.
-4. (Optional) Share a screenshot or short demo on LinkedIn and tag **@Datheon**.
 
 ---
 
